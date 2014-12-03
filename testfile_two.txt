@@ -1,3 +1,6 @@
 Greetings!
 
 This is a testfile_two.txt for practicing with Git-Hub.
+
+It didn't display "Added testfile_two" so I added this
+
