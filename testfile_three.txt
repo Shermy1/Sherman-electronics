@@ -1,3 +1,6 @@
 This is Michael Sherman
 
 2+2=4
+
+It wouldn't display "Added testfile_three" so I added this and updated
+
